@@ -34,3 +34,8 @@ Se o catálogo estivesse organizado alfabeticamente pelos nomes das estrelas, a 
 
 <p>Observação: Como um defensor do clean code, todo o projeto está comentado e devidamente indentado, aqui é Cauã falando e até a próxima :)</p>
 
+<p>Créditos: <br>
+https://pt.khanacademy.org <br>
+https://carlacastanho.github.io <br>
+</p>
+
