@@ -1,4 +1,4 @@
-# Busca binária recursivs
+# Busca binária recursivsa
 <h2>Busca binária, o que é?</h2>
 <p>A pesquisa ou <strong>busca binária</strong> é um algoritmo de busca em vetores que segue o paradigma de <strong> divisão e conquista </strong>. Ela parte do pressuposto
 de que o <strong>vetor está ordenado</strong> e realiza sucessivas divisões do espaço de busca comparando o elemento buscado com o elemento no meio do vetor.
@@ -31,4 +31,6 @@ Se o catálogo estivesse organizado alfabeticamente pelos nomes das estrelas, a 
 
 <p>Com isso, não restam dúvidas que, quando bem implementada, a busca binária se torna muito eficiente em nossos programas :)</p>
 <p>Linguagem - <br> C</p>
+
+<p>Observação: Como um defensor do clean code, todo o projeto está comentado e devidamente indentado, aqui é Cauã falando e até a próxima :)</p>
 
